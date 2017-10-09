@@ -44,6 +44,7 @@ li {
 
 /*2/3 of body width(800px)*/
 article {
+    float:left;
     background-color: pink;
     text-align: center;
     width: 533px; 
@@ -54,6 +55,7 @@ article {
 }
 
 section {
+    float:left;
     background-color: rgb(110, 3, 3);
     width: 533px;
     padding-bottom: 100px;
@@ -72,6 +74,7 @@ aside {
 }
 
 footer{
+    float:left;
     background-color: darkgreen;
     text-align: center;
     height: 20px;
