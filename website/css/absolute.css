@@ -1,12 +1,12 @@
-#absolute {
-    position: absolute;
-}
-
 body {
     width: 800px;
     height: 380px;
     text-align: center;
     color: white;
+}
+
+#absolute {
+    position: absolute;
 }
 
 header {
