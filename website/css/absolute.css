@@ -3,7 +3,6 @@ body {
     height: 400px;
     text-align: center;
     color: white;
-    position:absolute
 
 }
 
@@ -72,7 +71,6 @@ aside {
 }
 
 footer {
-    position: absolute;
     clear: both;
     background-color: darkgreen;
     text-align: center;
