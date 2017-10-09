@@ -29,6 +29,7 @@ nav {
     color: white;
     text-align:left;
     background-color: green;
+    height: 20px;
 
 }
 /*this lines up the text in nav side by side insead of dropping under eachother*/
@@ -49,7 +50,7 @@ article {
 }
 
 section {
-    background-color: rgba(167, 6, 6, 0.55);
+    background-color: rgba(95, 5, 5, 0.55);
     width: 533px;
     padding-bottom: 100px;
     margin-bottom: 20px;
