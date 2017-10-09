@@ -1,13 +1,13 @@
-#absolute {
-    position: absolute;
-}
-
 body {
     width: 800px;
     height: 400px;
     text-align: center;
     color: white;
 
+}
+
+#absolute {
+    position: absolute;
 }
 
 header {
@@ -75,6 +75,7 @@ aside {
 }
 
 footer {
+    clear: both;
     background-color: darkgreen;
     text-align: center;
     height: 20px;
