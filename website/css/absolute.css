@@ -4,7 +4,7 @@
 
 body {
     width: 800px;
-    height: 380px;
+    height: 400px;
     text-align: center;
     color: white;
 }
@@ -69,12 +69,11 @@ aside {
     float:right;
     background-color: cyan;
     width: 267px; /*is about 1/3 of the <body> width*/
-    height: 285px;
+    height: 300px;
 
 }
 
 footer{
-    float:left;
     background-color: darkgreen;
     text-align: center;
     height: 20px;
