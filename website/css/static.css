@@ -57,8 +57,14 @@ aside {
 footer{
     background-color: darkgreen;
     text-align: center;
-    padding-bottom: 20px;
-    height: 30px;
+    height: 20px;
 }
 
 
+a:link {
+    color: whitesmoke;
+  }
+
+a:visited {
+    color: whitesmoke;
+}
