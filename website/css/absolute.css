@@ -75,7 +75,7 @@ aside {
 }
 
 footer {
-    
+    clear: both;
     background-color: darkgreen;
     text-align: center;
     height: 20px;
